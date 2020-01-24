@@ -1,0 +1,17 @@
+
+Getting Songs List
+
+with song search
+api/Music/GetSongList/4/10/0?searchKey=s
+without song search
+api/Music/GetSongList/4/10/0
+
+
+Getting Album detail
+api/Music/GetAlbumDetail/4
+
+Getting Singer List
+/api/Music/GetSingerDetail/4
+
+Swagger Testing
+http://localhost:52564/swagger/index.html
